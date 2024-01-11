@@ -1,0 +1,39 @@
+{
+    "blockbuster":{
+        "peliculas":{
+            "P01":{
+                "id":"P01",
+                "nombre":"xxxxxxx",
+                "duracion":"xxxxxx",
+                "sinopsis":"xxxxxx",
+                "generos":{
+                    "G01":{
+                        "id":"G01",
+                        "nombre":"xxxxxxx"
+                    }
+                },
+                "actores":{
+                    "A01":{
+                        "id":"A01",
+                        "nombre":"xxxxxxx",
+                        "rol":"Protagonista o antagonista o reparto"
+                    }
+                },
+                "formato":{
+                    "F01":{
+                        "id":"F01",
+                        "nombre":"DVD",
+                        "NroCopias":2,
+                        "ValorPrestamo" : 5000
+                    },
+                    "F02":{
+                        "id":"F02",
+                        "nombre":"BlueRay",
+                        "NroCopias":2,
+                        "ValorPrestamo":8000
+                    }
+                }
+            }
+        }
+    }
+}
